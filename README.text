@@ -1,0 +1,4 @@
+# Bulk URL Indexer
+
+This repository is for testing the bulk URL indexer app.  
+It will contain sitemap.xml and rss.xml files pushed automatically via the app.
